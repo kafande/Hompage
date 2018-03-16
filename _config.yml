@@ -20,7 +20,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/kafande/WWW"
+  repository_url: "https://github.com/kafande/Homepage"
   
 title: Carlos' Homepage
 description: Carlos Salinas' Homepage at Purdue University
