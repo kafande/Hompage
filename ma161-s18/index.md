@@ -32,4 +32,3 @@ Here are the solutions to the quiz problems from recitation
 |             16 |                                               |          |
 
 Back to [Teaching](../#-teaching)
-Hello.

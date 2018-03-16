@@ -13,14 +13,14 @@ theme: jekyll-theme-primer
 plugins:
   - jemoji
 
-# github:
-#   private: false
-#   license:
-#     name: MIT
-#   source:
-#     branch: "master"
-#     path: "/"
-#   repository_url: "https://github.com/kafande/Hompg"
+github:
+  private: true
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/kafande/Hompg"
   
 title: Carlos' Homepage
 description: Carlos Salinas' Homepage at Purdue University
