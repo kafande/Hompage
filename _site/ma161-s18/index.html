@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -16,10 +17,14 @@
 <meta property="og:url" content="https://www.math.purdue.edu/~salinac/ma161-s18/" />
 <meta property="og:site_name" content="Carlos’ Homepage" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"https://www.math.purdue.edu/~salinac/ma161-s18/","headline":"Carlos’ Homepage","description":"Carlos Salinas’ Homepage at Purdue University","@context":"http://schema.org"}</script>
+{"@type":"WebPage","headline":"Carlos’ Homepage","url":"https://www.math.purdue.edu/~salinac/ma161-s18/","description":"Carlos Salinas’ Homepage at Purdue University","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
+<<<<<<< HEAD
     <link rel="stylesheet" href="/~salinac/assets/css/style.css?v=2a53204341c9e797e76b20a8ec43577861453c7b">
+=======
+    <link rel="stylesheet" href="/~salinac/assets/css/style.css?v=893472911f9bda5a420253530bba59d4eab5395e">
+>>>>>>> 5d3bd4bb983ede747484071d95052f888111d627
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -147,3 +152,15 @@
     
   </body>
 </html>
+
+<script>
+$("script[type='math/tex']").replaceWith(function() {
+    var tex = $(this).text();
+    return katex.renderToString(tex, {displayMode: false});
+    });
+
+    $("script[type='math/tex; mode=display']").replaceWith(function() {
+    var tex = $(this).html();
+    return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+    });
+    </script>

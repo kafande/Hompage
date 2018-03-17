@@ -1,3 +1,8 @@
 source "https://rubygems.org"
-gem 'jemoji'
 gemspec
+
+group :jekyll_plugins do
+  gem 'jekyll-katex'
+  gem 'jemoji'
+end
+
