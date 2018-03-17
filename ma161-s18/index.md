@@ -31,8 +31,4 @@ Here are the solutions to the quiz problems from recitation
 |             15 | [Solutions](quizzes/MA161-Quiz-15.pdf) |          |
 |             16 |                                               |          |
 
-<<<<<<< HEAD
 Back to [Teaching](../#-teaching).
-=======
-Back to [Teaching](../#-teaching)
->>>>>>> 5d3bd4bb983ede747484071d95052f888111d627
