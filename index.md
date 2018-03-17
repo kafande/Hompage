@@ -13,16 +13,16 @@ layout: default
 * Office: [MATH 717](https://www.google.com/maps/place/Mathematical+Sciences+Bldg,+West+Lafayette,+IN+47907/@40.4262305,-86.9179395,17z/data=!3m1!4b1!4m5!3m4!1s0x8812e2b3dc1c0b79:0x51c0931a8ca2704!8m2!3d40.4262305!4d-86.9157508)
 * Office Hours: By appointment in my office or at the [Math Help Room](https://www.math.purdue.edu/academic/officehours)
 
-{% katex %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
+<!-- {% katex %} -->
+<!-- c = \pm\sqrt{a^2 + b^2} -->
+<!-- {% endkatex %} -->
 
 ## [](#teaching) Teaching
 This heading will contain courses that I have taught or TA'd at Purdue University. 
 * [MA 161 Spring 2018](ma161-s18)
 
 ## [](#papers) Notes and papers
-* [Bott Periodicity for the unitary group](docs/sc-bott-periodicity.pdf) (incomplete)
+* [Bott Periodicity for the unitary group](docs/Bott_Periodicity.pdf) (incomplete)
 
 ## [](#links) Links
 Below is a collection of helpful links. 
