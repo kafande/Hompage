@@ -3,7 +3,7 @@ layout: default
 ---
 ![](img/brosephs.jpg){:class="img-responsive" height="250px"} 
 
-*Me on the left with Kuang-Ru Wu and Warren Katz at [Turkey Run](https://en.wikipedia.org/wiki/Turkey_Run_State_Park).*
+*Me on the left with Kuang-Ru Wu and Warren Katz at [Turkey Run State Park](https://en.wikipedia.org/wiki/Turkey_Run_State_Park).*
 
 ## [](#info) Information
 
@@ -11,7 +11,7 @@ layout: default
 * Interests: [geometric group theory](https://en.wikipedia.org/wiki/Geometric_group_theory), [lattice theory](https://en.wikipedia.org/wiki/Lattice_(discrete_subgroup)), [spectral geometry](https://en.wikipedia.org/wiki/Spectral_geometry)
 * E-mail: [salinac@purdue.edu](mailto:salinac@purdue.edu)
 * Office: [MATH 717](https://www.google.com/maps/place/Mathematical+Sciences+Bldg,+West+Lafayette,+IN+47907/@40.4262305,-86.9179395,17z/data=!3m1!4b1!4m5!3m4!1s0x8812e2b3dc1c0b79:0x51c0931a8ca2704!8m2!3d40.4262305!4d-86.9157508)
-* Office Hours: By appointment at my office or at the [Math Help Room](https://www.math.purdue.edu/academic/officehours)
+* Office Hours: By appointment in my office or at the [Math Help Room](https://www.math.purdue.edu/academic/officehours)
 
 
 ## [](#teaching) Teaching
