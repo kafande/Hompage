@@ -30,7 +30,7 @@ Below is a collection of helpful links for students; particularly in mathematics
 * Most of the figures I include in my documents were built using [Asymptote](http://asymptote.sourceforge.net/). There are several great tutorials on using Asymptote online; for example,  Charles Staats' [notes](https://math.uchicago.edu/~cstaats/notesandpapers.html) and [AoPS](https://artofproblemsolving.com/) offers a very basic [reference](https://artofproblemsolving.com/wiki/index.php/Asymptote_(Vector_Graphics_Language)).
 * [Overleaf](https://www.overleaf.com/) (which recently acquired [ShareLaTeX](https://www.sharelatex.com/blog/2017/07/20/sharelatex-joins-overleaf.html)) is a great online LaTeX editor and Purdue University students get extra features. I particularly enjoy cloning a project using [git](https://en.wikipedia.org/wiki/Git) and editing the files with my favorite text editor [Emacs](https://www.gnu.org/software/emacs/).
 * Real programers use Emacs.
->![](https://imgs.xkcd.com/comics/real_programmers.png){:width="75%"}
+>![](https://imgs.xkcd.com/comics/real_programmers.png){:width="80%"}
 * Emacs creates a lot of clutter in your project folders so if you are working with git you are going to want to keep track of what gets pushed into your repository. Fortunately you can do that by including a `.gitignore` file in your project folder. The site [gitignore.io](https://www.gitignore.io/) to help you get started with that.
 * My first introduction into programming came from a (now) little known book called [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/). This book has been very influential in the way I think about programming.
 * [Purdue Geometry Seminar](https://sites.google.com/site/purduegeometryseminar/).
