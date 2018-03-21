@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## MA 161 Sections 105 and 107
+## MA 161 sections 105 and 107
 This is the website for sections 105 and 107 of Dominic Naughton's MA 161 lecture. For the course website [click here](https://www.math.purdue.edu/MA161). 
 
 ### [](#notes) Class Notes
