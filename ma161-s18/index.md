@@ -11,7 +11,7 @@ Here I will post corrections to mistakes I have made in class and outlines of so
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
 
-|           Quiz | Solutions                                     | Practice |
+|           Quiz | Solutions                                     | Notes    |
 | :------------- | :-------------------------------------------- | :------- |
 |      Readiness | [Solutions](quizzes/MA161-Quiz-R.pdf)         |          |
 |              1 | [Solutions](quizzes/MA161-Quiz-1.pdf)         |          |
@@ -29,6 +29,7 @@ Here are the solutions to the quiz problems from recitation.
 |             13 | [Solutions](quizzes/MA161-Quiz-13.pdf)        |          |
 |             14 | [Solutions](quizzes/MA161-Quiz-14.pdf)        |          |
 |             15 | [Solutions](quizzes/MA161-Quiz-15.pdf)        |          |
-|             16 |                                               |          |
+|             16 | [Solutions](quizzes/MA161-Quiz-16.pdf)       |          |
+|               |                                               |          |
 
 Back to [Teaching](../#-teaching).
