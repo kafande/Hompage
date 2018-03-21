@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](img/brosephs.jpg){:width="50%"}
+![](img/TurkeyRun.jpg){:width="50%"}
 
 *Me on the left with Kuang-Ru Wu and Warren Katz being silly at [Turkey Run](https://en.wikipedia.org/wiki/Turkey_Run_State_Park).*
 
