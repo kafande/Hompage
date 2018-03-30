@@ -32,7 +32,7 @@ Here are the solutions to the quiz problems from recitation.
 |             16 | [Solutions](quizzes/MA161-Quiz-16.pdf)        |          |
 |             17 | [Solutions](quizzes/MA161-Quiz-17.pdf)        |          |
 |             18 | [Solutions](quizzes/MA161-Quiz-18.pdf)       |          |
-|                |                                               |          |
+|             19 | [Solutions](quizzes/MA161-Quiz-19.pdf)      |          |
 |                |                                               |          |
 
 Back to [Teaching](../#-teaching).
