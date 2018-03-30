@@ -36,8 +36,3 @@ Below is a collection of helpful links for students; particularly in mathematics
 * [Purdue Geometry Seminar](https://sites.google.com/site/purduegeometryseminar/).
 * [Geometric Group Theory](http://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/).
 * Graduate students interested in topology, join the [topology students mailing list](https://lists.purdue.edu/mailman/listinfo/topologystudents)!
-
-<!-- Some nice KaTeX -->
-<!-- {% katex %} -->
-<!-- c = \pm\sqrt{a^2 + b^2} -->
-<!-- {% endkatex %} -->
