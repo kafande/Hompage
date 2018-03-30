@@ -12,8 +12,8 @@ This is the website for sections 105 and 107 of Dominic Naughton's MA 161 lectur
 Here I will post corrections to mistakes I have made in class and outlines of solutions to more intricate problems from the homework.
 
 #### Common Mistakes
-Common mistakes
-Some nice KaTeX
+
+
 {% katex %}
 \mathscr{C} = \pm\sqrt{a^2 + b^2}
 {% endkatex %}
