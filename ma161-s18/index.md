@@ -5,8 +5,8 @@ layout: default
 ## MA 161 sections 105 and 107
 This is the website for sections 105 and 107 of Dominic Naughton's MA 161 lecture. For the course website [click here](https://www.math.purdue.edu/MA161). 
 
-### [](#Announcements)
-Exam 3 will be on Thursday April 5 from 6:30 to 7:30 PM and will be held at the [Elliot Hall of Music](https://www.google.com/maps/place/Elliott+Hall+of+Music/@40.4279028,-86.9149599,15z/data=!4m5!3m4!1s0x0:0x8a6f492841fdc975!8m2!3d40.4279028!4d-86.9149599). Click [here](https://www.math.purdue.edu/academic/files/courses/2018spring/MA16100/EXAMCOVERSHEETEXAM3-16100S18.pdf) for the official coverpage.
+### [](#announce) Announcements
+> Exam 3 will be on Thursday April 5 from 6:30 to 7:30 PM and will be held at the [Elliot Hall of Music](https://www.google.com/maps/place/Elliott+Hall+of+Music/@40.4279028,-86.9149599,15z/data=!4m5!3m4!1s0x0:0x8a6f492841fdc975!8m2!3d40.4279028!4d-86.9149599). Click [here](https://www.math.purdue.edu/academic/files/courses/2018spring/MA16100/EXAMCOVERSHEETEXAM3-16100S18.pdf) for the official coverpage.
 
 ### [](#notes) Class Notes
 Here I will post corrections to mistakes I have made in class and outlines of solutions to more intricate problems from the homework.
