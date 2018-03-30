@@ -11,14 +11,6 @@ This is the website for sections 105 and 107 of Dominic Naughton's MA 161 lectur
 ### [](#notes) Class Notes
 Here I will post corrections to mistakes I have made in class and outlines of solutions to more intricate problems from the homework.
 
-#### Common Mistakes
-
-
-{% katex %}
-\mathscr{C} = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
-
-
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
 
