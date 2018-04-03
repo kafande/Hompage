@@ -33,6 +33,7 @@ Below is a collection of helpful links for students; particularly in mathematics
 >![](https://imgs.xkcd.com/comics/real_programmers.png){:width="75%"}
 * Emacs creates a lot of clutter in your project folders so if you are working with git you are going to want to keep track of what gets pushed into your repository. Fortunately you can do that by including a `.gitignore` file in your project folder. The site [gitignore.io](https://www.gitignore.io/) to help you get started with that.
 * My first introduction into programming came from a (now) little known book called [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/). This book has been very influential in the way I think about programming.
+* [Words of inspiration](http://www.paulgraham.com/hs.html) from Paul Graham.
 * [Purdue Geometry Seminar](https://sites.google.com/site/purduegeometryseminar/).
 * [Geometric Group Theory](http://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/).
 * Graduate students interested in topology, join the [topology students mailing list](https://lists.purdue.edu/mailman/listinfo/topologystudents)!
