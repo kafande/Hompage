@@ -1,32 +1,20 @@
 exclude:
   - node_modules
   - script
-  - jekyll-theme-primer.gemspec
-  - Gemfile
-  - Gemfile.lock
-  
+
 sass:
   style: :compressed
 
 theme: jekyll-theme-primer
 
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-
-plugins:
-  - jemoji
-
 github:
-  private: true
+  private: false
   license:
     name: MIT
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/kafande/Hompg"
+  repository_url: "https://github.com/pages-themes/primer"
   
-title: Carlos' Homepage
-description: Carlos Salinas' Homepage at Purdue University
-url: https://www.math.purdue.edu
-baseurl: /~salinac
+title: Jekyll Theme Primer
+description: Primer is a Jekyll theme for GitHub Pages
