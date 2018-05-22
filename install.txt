@@ -1,0 +1,1 @@
+run `gem install --user bundle jekyll mercenary nokogiri activesupport ethon faraday ffi eventmachine colorize concurrent-ruby minitest jekyll-seo-tag html-proofer sawyer typhoeus yell  parser octokit jekyll-seo-tag unicode-display_width rubocop w3c_validators`
