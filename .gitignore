@@ -1,0 +1,5 @@
+files to ignore
+
+.bundle/*
+*.org
+
