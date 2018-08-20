@@ -1,0 +1,63 @@
+#+author: Carlos E S
+#+date: August 21, 2018
+#+title: Recitation Session 1
+#+latex_class: org-essay
+
+* Last Quiz Statistics
+  Since we have not yet had a quiz, this section is irrelevant. But in the
+  future, I will be putting quiz statistics (i.e., average and standard
+  deviation) here.
+
+* Most Missed Problems 
+  Unlike previous terms, I will not be providing full solutions to the quizzes;
+  instead I will provide solutions to the problems my sections struggled with
+  the most. This will be less of a burden on me and, I hope, will encourage you
+  to attend recitation to get your questions answered.
+
+* Recitation Notes
+  Since this will be the first recitation, we will mostly be talking about
+  ground rules and course policies for the semester. 
+
+  First off, I have a website, it's https://math.purdue.edu/~salinac/ma261-f18.
+  There you will find these notes as well as useful links and blank quizzes.
+  Unfortunately, my office hours have not been finalized as of yet; this is due
+  to the fact that the Math Help Room (or the Math Resource Room, as it is now
+  known) has gone through some major changes, and the administration has been
+  delayed in assigning office hours. At any rate, once I know what my office
+  hours for the semester will be, I will make sure to let you know both in
+  person and in writing.
+
+  Now, let's get down to some base rules. 
+  
+** Quizzes
+   There will be quizzes every recitation, excluding this one. The material will
+   resemble that of your previous lecture. To get a more precise description,
+   please look at the course calendar. 
+
+
+** Late Homework and Missed Quizzes
+   Late homework will not be accepted and no make-up quizzes will be given. At
+   the end of the semester the three lowest homework and three lowest quizzes
+   are dropped. However, I can make excuses on an individual basis; especially
+   if you missed that homework assignment or that quiz due to medical issues. 
+
+** Midterms
+   There will be two multiple-choice one-hour midterms These are on
+   + Midterm 1 Tuesday, October 2, 8:00 PM, at Elliott Hall of Music
+   + Midterm 2 Wednesday, October 31, 6:30 PM at Elliot Hall of Music
+     
+   Notice that both of these two midterms are not scheduled at the same time; I
+   will make a note of this again, as the date approaches.
+
+** Grades
+   Course grades will be determined in roughly the following way:
+   | Homework  | 100 |
+   | Quizzes   |  50 |
+   | Midterm 1 | 100 |
+   | Midterm 2 | 100 |
+   | Final     | 200 |
+   |-----------+-----|
+   | *Total*   | 550 |
+   
+   The cutoffs for certain letter grades will be about the following: 300
+   A+/A/A-, 320 B+/B/B-, 280 C+/C/C-, 240 D+/D.
