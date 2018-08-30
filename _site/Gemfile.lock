@@ -91,13 +91,8 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-<<<<<<< HEAD
     rouge (3.1.1)
     rubocop (0.58.1)
-=======
-    rouge (3.2.1)
-    rubocop (0.58.2)
->>>>>>> 03d209c8e80d4a5d45e75f9a124abfed8891212e
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
