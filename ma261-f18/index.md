@@ -13,4 +13,9 @@ Here I will post corrections to mistakes I have made in class and outlines of so
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
 
+| Quiz Solutions                | Average    | Standard Deviation    |
+| :---------------------------: | :--------: | :-------------------: |
+| [1](quizzes/MA261_Quiz_1.pdf) | 16.69      | 5.2                   |
+|                               |            |                       |
+
 Back to [Teaching](../#-teaching).
