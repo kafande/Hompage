@@ -25,6 +25,7 @@ Here are the solutions to the quiz problems from recitation.
 | Quiz Solutions                | Average    | Standard Deviation    |
 | :---------------------------: | :--------: | :-------------------: |
 | [1](quizzes/MA261_Quiz_1.pdf) | 16.69      | 5.2                   |
+| [2](quizzes/MA261_Quiz_2.pdf) |            |                       |
 |                               |            |                       |
 
 Back to [Teaching](../#-teaching).
