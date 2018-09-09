@@ -16,9 +16,9 @@ will find important dates regarding the course. My office hours are on
   | Wednesday | 4:30—5:20 PM   |
   | Friday    | 10:30—11:20 PM |
   
-  in the [Math Resource
-  Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
-  MATH 717, by appointment.
+in the [Math Resource
+Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
+MATH 717, by appointment.
 
 ### [](#announce) Announcements
 
@@ -36,7 +36,7 @@ Here are the solutions to the quiz problems from recitation.
 | Quiz Solutions                | Average    | Standard Deviation    |
 | :---------------------------: | :--------: | :-------------------: |
 | [1](quizzes/MA261_Quiz_1.pdf) | 16.69      | 5.2                   |
-| [2](quizzes/MA261_Quiz_2.pdf) | 16.69      | 5.2                   |
+| [2](quizzes/MA261_Quiz_2.pdf) |            |                       |
 |                               |            |                       |
 
 Back to [Teaching](../#-teaching).
