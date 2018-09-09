@@ -10,12 +10,12 @@ link to the [course
 calendar](https://www.math.purdue.edu/~chenjk/261-F18-calendar.html), in it you
 will find important dates regarding the course. My office hours are on
 
-  | Day       | Time           |
-  | :-------: | :------------: |
-  | Tuesday   | 1:30—2:20 PM   |
-  | Wednesday | 4:30—5:20 PM   |
-  | Friday    | 10:30—11:20 PM |
-  
+| Day       | Time           |
+| :-------: | :------------: |
+| Tuesday   | 1:30—2:20 PM   |
+| Wednesday | 4:30—5:20 PM   |
+| Friday    | 10:30—11:20 PM |
+
 in the [Math Resource
 Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
 MATH 717, by appointment.
@@ -26,8 +26,8 @@ MATH 717, by appointment.
 Here I will post corrections to mistakes I have made in class and outlines of
 solutions to more intricate problems from the homework.
 
-* Recitation 1 [summary](notes/rec-1).
-* Recitation 2 [summary](notes/rec-2).
+* Recitation 1 [summary](rec-1.html).
+* Recitation 2 [summary](rec-2.html).
 * Recitation 3 summary.
 
 ### [](#sols) Quiz Solutions

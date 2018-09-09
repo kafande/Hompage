@@ -7,6 +7,15 @@ sass:
 
 theme: jekyll-theme-primer
 
+plugins:
+  - jekyll-katex
+
+katex:
+  js_path: "assets/javascript"
+  rendering_options:
+    throw_error: true
+    error_color: "#cc0000"
+
 github:
   private: true
   license:
