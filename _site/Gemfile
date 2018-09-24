@@ -4,7 +4,7 @@ gemspec
 
 
 group :jekyll_plugins do
-  gem 'jekyll-katex', "~> 0.2"
+  gem 'jekyll-katex'
   gem 'therubyracer'
-  # gem 'execjs', '2.2.2'
+  gem 'execjs'
 end

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## []() Recitation — September 3, 2018
+## []() Recitation — September 4, 2018
 In this day's recitation we talked about the following problems
 
 <!-- {% katex %} -->

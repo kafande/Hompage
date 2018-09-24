@@ -10,6 +10,8 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-katex
 
+markdown: kramdown
+
 katex:
   js_path: "assets/javascript"
   rendering_options:

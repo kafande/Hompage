@@ -21,6 +21,7 @@ Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
 MATH 717, by appointment.
 
 ### [](#announce) Announcements
+> Exam 1 will take place on Tuesday, October 2, at 8:00 PM in the Elliott Hall of Music. Here is the [seating chart](notes/MA26100 EX1 F18 ELLIOTT HALL.pdf).
 
 ### [](#notes) Class Notes
 Here I will post corrections to mistakes I have made in class and outlines of
@@ -28,7 +29,8 @@ solutions to more intricate problems from the homework.
 
 * Recitation 1 [summary](rec-1.html).
 * Recitation 2 [summary](rec-2.html).
-* Recitation 3 summary.
+* Recitation 3 [summary](rec-3.html).
+* Recitation 4 [summary](rec-4.html).
 
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
@@ -38,6 +40,7 @@ Here are the solutions to the quiz problems from recitation.
 | [1](quizzes/MA261_Quiz_1.pdf) |      16.69 |                   5.2 |
 | [2](quizzes/MA261_Quiz_2.pdf) |      16.93 |                  4.92 |
 | [3](quizzes/MA261_Quiz_3.pdf) |      17.37 |                   5.8 |
+| [4](quizzes/MA261_Quiz_4.pdf) |       14.7 |                  5.92 |
 |                               |            |                       |
 
 Back to [Teaching](../#-teaching).
