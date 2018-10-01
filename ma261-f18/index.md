@@ -32,7 +32,7 @@ solutions to more intricate problems from the homework.
 * Recitation 3 [summary](rec-3.html).
 * Recitation 4 [summary](rec-4.html).
 * Recitation 5 [summary](rec-5.html).
-* Recitation 5 [summary](rec-6.html): solutions to the practice midterm.
+* Recitation 6 [summary](rec-6.html): solutions to the practice midterm.
 
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
