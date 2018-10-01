@@ -31,6 +31,7 @@ solutions to more intricate problems from the homework.
 * Recitation 2 [summary](rec-2.html).
 * Recitation 3 [summary](rec-3.html).
 * Recitation 4 [summary](rec-4.html).
+* Recitation 5 [summary](rec-5.html).
 
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
@@ -41,6 +42,7 @@ Here are the solutions to the quiz problems from recitation.
 | [2](quizzes/MA261_Quiz_2.pdf) |      16.93 |                  4.92 |
 | [3](quizzes/MA261_Quiz_3.pdf) |      17.37 |                   5.8 |
 | [4](quizzes/MA261_Quiz_4.pdf) |       14.7 |                  5.92 |
+| [5](quizzes/MA261_Quiz_5.pdf) |      15.07 | 5.78                  |
 |                               |            |                       |
 
 Back to [Teaching](../#-teaching).
