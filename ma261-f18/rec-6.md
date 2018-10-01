@@ -16,24 +16,29 @@ Here are the solutions to the mock Midterm 1.
   {% endkatex %}.
 
 ### Solution
-By the [dot product angle
-formula](https://en.wikipedia.org/wiki/Dot_product#Geometric_definition), all we
-need do is find the relevant vectors. These vectors are precisely the normals to
-the planes, that is,
+To find the angle between the two planes we will use [dot product angle
+formula](https://en.wikipedia.org/wiki/Dot_product#Geometric_definition). All we
+need to do at this point is find the right vectors to use the formula on. As it
+turns out, and you can draw a picture to convince yourself of this, the angle
+made by the planes is precisely the one made by their normals, i.e., the vectors
 {% katex %}
-\mathbf u_1=\langle 1,2,0\rangle 
+\mathbf n_1=\langle 1,1,0\rangle 
 {% endkatex %}, 
 {% katex %}
-\mathbf u_2=\langle 1,2,\sqrt 2 \rangle
+\mathbf n_2=\langle 1,1,\sqrt 2 \rangle
 {% endkatex %}.
 Therefore, 
 {% katex display %}
-\theta=
-\cos^{-1}
-\left(
-\frac{
-\langle 1,2,0\rangle \cdot \langle 1,2,\sqrt 2 \rangle
-}{}\right)
+\begin{aligned}
+\cos(\theta)
+&=\frac{\mathbf n_1\cdot \mathbf n_2}{|\mathbf n_1||\mathbf n_2|}\\
+\theta&=\cos^{-1}\left(
+\frac{\langle 1,1,0\rangle\cdot\langle 1,1,\sqrt 2\rangle}
+{|\langle 1,1,0\rangle||\langle 1,1,\sqrt 2\rangle| }\right)
+\\
+&=\cos^{-1}\left(\frac 1{\sqrt 2}\right)\\
+&=\frac\pi 4
+\end{aligned}
 {% endkatex %}
 
 ## Problem 2
@@ -50,6 +55,26 @@ Therefore,
   {% endkatex %}.)
 
 ### Solution
+First let us find the derivative of {% katex %} \mathbf r(t){% endkatex %}, which is {%katex display %} \mathbf r'(t)=\langle 1-\cos(t),\sin(t)\rangle.{% endkatex %} Using the [arc length formula](https://en.wikipedia.org/wiki/Arc_length#Finding_arc_lengths_by_integrating),  we get the following sequence of equations
+
+{% katex display %}
+\begin{aligned}
+\int_0^\pi|\mathbf r'(t)|\, dt
+&=\int_0^\pi\sqrt{(1-\cos(t))^2+(\sin(t))^2}\, dt\\
+&=\int_0^\pi\sqrt{1-2\cos(t)+\cos^2(t)+\sin^2(t)}\, dt\\
+&=\int_0^\pi\sqrt{2-2\cos(t)}\, dt\\
+&=\int_0^\pi \sqrt{2}\sqrt{1-\cos(t)}\, dt.
+\end{aligned}
+{% endkatex %}
+It seems like we have reached an impasse. However, by the double angle formula, we can make the following substitution (which will allow us to finish the calculation)
+{% katex display %}
+\begin{aligned}
+\int_0^\pi|\mathbf r'(t)|\, dt
+&=\int_0^\pi\sqrt{4\sin^2(t/2)}\, dt\\
+&=\int_0^\pi 2\sin(t/2)\, dt\\
+&=.
+\end{aligned}
+{% endkatex %}
 
 ## Problem 3
   Find the area of the triangle with vertices 
