@@ -21,7 +21,7 @@ Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
 MATH 717, by appointment.
 
 ### [](#announce) Announcements
-> Exam 1 will take place on Tuesday, October 2, at 8:00 PM in the Elliott Hall of Music. Here is the [seating chart](notes/MA26100 EX1 F18 ELLIOTT HALL.pdf).
+> The Final will take place on Wednesday,December 12, at 8:00 PM in the Elliott Hall of Music.
 
 ### [](#notes) Class Notes
 Here I will post corrections to mistakes I have made in class and outlines of
