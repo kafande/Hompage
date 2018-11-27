@@ -21,7 +21,7 @@ Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
 MATH 717, by appointment.
 
 ### [](#announce) Announcements
-> The Final will take place on Wednesday,December 12, at 8:00 PM in the Elliott Hall of Music.
+> The Final will take place on Wednesday,December 12, at 8:00 - 10:00 AM in the Elliott Hall of Music.
 
 ### [](#notes) Class Notes
 Here I will post corrections to mistakes I have made in class and outlines of
