@@ -40,16 +40,16 @@ Here are the solutions to the quiz problems from recitation.
 | Quiz Solutions                  |    Average |    Standard Deviation |
 | :---------------------------:   | :--------: | :-------------------: |
 | [1](quizzes/MA261_Quiz_1.pdf)   |      16.69 |                   5.2 |
-| [2](quizzes/MA261_Quiz_2.pdf)   |      16.93 |                  4.92 |
+| [2](quizzes/MA261_Quiz_2.pdf)   |      16.93 |                  4.9 |
 | [3](quizzes/MA261_Quiz_3.pdf)   |      17.37 |                   5.8 |
-| [4](quizzes/MA261_Quiz_4.pdf)   |       14.7 |                  5.92 |
-| [5](quizzes/MA261_Quiz_5.pdf)   |      15.07 |                  5.78 |
-| [6](quizzes/MA261_Quiz_6.pdf)   |       14.5 |                  6.41 |
+| [4](quizzes/MA261_Quiz_4.pdf)   |       14.7 |                  5.9 |
+| [5](quizzes/MA261_Quiz_5.pdf)   |      15.07 |                  5.8 |
+| [6](quizzes/MA261_Quiz_6.pdf)   |       14.5 |                  6.4 |
 | [7](quizzes/MA261_Quiz_7.pdf)   |       13.7 |                   5.9 |
-| [8](quizzes/MA261_Quiz_8.pdf)   |    No Data |               No Data |
-| [9](quizzes/MA261_Quiz_9.pdf)   |    No Data |               No Data |
+| [8](quizzes/MA261_Quiz_8.pdf)   |    no Data |               no Data |
+| [9](quizzes/MA261_Quiz_9.pdf)   |    no Data |               no Data |
 | [10](quizzes/MA261_Quiz_10.pdf) |       15.4 |                   8.4 |
-|                                 |            |                       |
+| [11](quizzes/MA261_Quiz_11.pdf) |       13.6 |                   7.2 |
 
 Back to [Teaching](../#-teaching).
 
