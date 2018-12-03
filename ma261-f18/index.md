@@ -46,8 +46,8 @@ Here are the solutions to the quiz problems from recitation.
 | [5](quizzes/MA261_Quiz_5.pdf)   |      15.07 |                  5.8 |
 | [6](quizzes/MA261_Quiz_6.pdf)   |       14.5 |                  6.4 |
 | [7](quizzes/MA261_Quiz_7.pdf)   |       13.7 |                   5.9 |
-| [8](quizzes/MA261_Quiz_8.pdf)   |    no Data |               no Data |
-| [9](quizzes/MA261_Quiz_9.pdf)   |    no Data |               no Data |
+| [8](quizzes/MA261_Quiz_8.pdf)   |    no data |               no data |
+| [9](quizzes/MA261_Quiz_9.pdf)   |    no data |               no data |
 | [10](quizzes/MA261_Quiz_10.pdf) |       15.4 |                   8.4 |
 | [11](quizzes/MA261_Quiz_11.pdf) |       13.6 |                   7.2 |
 
