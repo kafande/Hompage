@@ -23,16 +23,16 @@ MATH 717, by appointment.
 ### [](#announce) Announcements
 > The Final will take place on Wednesday,December 12, at 8:00 - 10:00 AM in the Elliott Hall of Music.
 
-### [](#notes) Class Notes
-Here I will post corrections to mistakes I have made in class and outlines of
-solutions to more intricate problems from the homework.
+<!-- ### [](#notes) Class Notes -->
+<!-- Here I will post corrections to mistakes I have made in class and outlines of -->
+<!-- solutions to more intricate problems from the homework. -->
 
-* Recitation 1 [summary](rec-1.html).
-* Recitation 2 [summary](rec-2.html).
-* Recitation 3 [summary](rec-3.html).
-* Recitation 4 [summary](rec-4.html).
-* Recitation 5 [summary](rec-5.html).
-* Recitation 6 [summary](rec-6.html): solutions to the practice midterm.
+<!-- * Recitation 1 [summary](rec-1.html). -->
+<!-- * Recitation 2 [summary](rec-2.html). -->
+<!-- * Recitation 3 [summary](rec-3.html). -->
+<!-- * Recitation 4 [summary](rec-4.html). -->
+<!-- * Recitation 5 [summary](rec-5.html). -->
+<!-- * Recitation 6 [summary](rec-6.html): solutions to the practice midterm. -->
 
 ### [](#sols) Quiz Solutions
 Here are the solutions to the quiz problems from recitation.
