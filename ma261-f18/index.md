@@ -52,4 +52,3 @@ Here are the solutions to the quiz problems from recitation.
 | [11](quizzes/MA261_Quiz_11.pdf) |       13.6 |                   7.2 |
 
 Back to [Teaching](../#-teaching).
-
