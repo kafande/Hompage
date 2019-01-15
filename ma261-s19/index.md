@@ -23,10 +23,13 @@ official schedule Math Resource Room schedule
 ### [](#announce) Announcements
 ><span style="color:Salmon">**There will be no quiz on Tuesday, January 8.**</span>
 
-### [](#sols) Quiz Solutions
+## [](#links) Links and notes
+* [Quadratic surfaces](http://mathworld.wolfram.com/QuadraticSurface.html)
+
+### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from recitation.
 
-| Quiz Solutions                | Average    | Standard Deviation    |
+| Quiz solutions                | Average    | Standard Deviation    |
 | :---------------------------: | :--------: | :-------------------: |
 |                               |            |                       |
 
