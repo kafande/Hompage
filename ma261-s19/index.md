@@ -29,8 +29,9 @@ official schedule Math Resource Room schedule
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from recitation.
 
-| Quiz solutions                | Average    | Standard deviation   |
-| :---------------------------: | :--------: | :-------------------: |
-|                               |            |                       |
+| Solutions                              | Average  | Standard deviation  |
+| :------------------------------------: | :------: | :-----------------: |
+| [Quiz 1](quizzes/MA261_Quiz_1_Sol.pdf) | 15.6     | 5.29                |
+|                                        |          |                     |
 
 Back to [Teaching](../#-teaching).
