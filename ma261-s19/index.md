@@ -24,6 +24,7 @@ official schedule Math Resource Room schedule
 ><span style="color:Salmon">**There will be no quiz on Tuesday, January 8.**</span>
 
 ### [](#links) Links and notes
+* [Paul's Online Notes for Calc III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
 * [Quadratic surfaces](http://mathworld.wolfram.com/QuadraticSurface.html)
 
 ### [](#sols) Quiz solutions
@@ -32,6 +33,7 @@ Here are the solutions to the quiz problems from recitation.
 | Solutions                              | Average  | Standard deviation  |
 | :------------------------------------: | :------: | :-----------------: |
 | [Quiz 1](quizzes/MA261_Quiz_1_Sol.pdf) | 15.6     | 5.29                |
+| [Quiz 2](quizzes/MA261_Quiz_2_Sol.pdf) |          |                     |
 |                                        |          |                     |
 
 Back to [Teaching](../#-teaching).
