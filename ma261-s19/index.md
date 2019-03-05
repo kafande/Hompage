@@ -21,7 +21,7 @@ official schedule Math Resource Room schedule
 [here](https://www.math.purdue.edu/academic/officehours).
 
 ### [](#announce) Announcements
-><span style="color:Salmon">**There will be no quiz on Tuesday, January 8.**</span>
+>Exam 1 grades have been posted on WebAssign. My sections' combined average was **74.2** with a standard deviation of **16**. I will be returning Exam 1 booklets on Tuesday, Mach 4.
 
 ### [](#links) Links and notes
 * [Paul's Online Notes for Calc III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
@@ -30,10 +30,14 @@ official schedule Math Resource Room schedule
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from recitation.
 
-| Solutions                              | Average  | Standard deviation  |
+| Solutions                              |  Average |  Standard deviation |
 | :------------------------------------: | :------: | :-----------------: |
-| [Quiz 1](quizzes/MA261_Quiz_1_Sol.pdf) | 15.6     | 5.29                |
-| [Quiz 2](quizzes/MA261_Quiz_2_Sol.pdf) |          |                     |
+| [Quiz 1](quizzes/MA261_Quiz_1_Sol.pdf) |     15.6 |                 5.3 |
+| [Quiz 2](quizzes/MA261_Quiz_2_Sol.pdf) |     17.6 |                 4.6 |
+| [Quiz 3](quizzes/MA261_Quiz_3_Sol.pdf) |     18.3 |                 2.7 |
+| [Quiz 4](quizzes/MA261_Quiz_4_Sol.pdf) |     14.8 |                 4.0 |
+| [Quiz 5](quizzes/MA261_Quiz_5_Sol.pdf) |       20 |                   0 |
+| [Quiz 6](quizzes/MA261_Quiz_6_Sol.pdf) |       16 |                 3.1 |
 |                                        |          |                     |
 
 Back to [Teaching](../#-teaching).
