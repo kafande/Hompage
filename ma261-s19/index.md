@@ -26,6 +26,7 @@ official schedule Math Resource Room schedule
 ### [](#links) Links and notes
 * [Paul's Online Notes for Calc III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
 * [Quadratic surfaces](http://mathworld.wolfram.com/QuadraticSurface.html)
+* [Solutions to Exam 1](notes/MA261-E1-S19-Sols.pdf)
 
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from recitation.
