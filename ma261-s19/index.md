@@ -14,7 +14,7 @@ in it you will find important dates regarding the course. My office hours are
 | :-------: | :------------: |
 | Tuesday   | 2:30—5:20 PM   |
 
-in the [Math Resource
+[Quiz 1](quizzes/MA261_Quiz_1.pdf)in the [Math Resource
 Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
 MATH 717 by appointment. You can find also consult other Math 261 TAs; see the
 official schedule Math Resource Room schedule
@@ -31,15 +31,15 @@ official schedule Math Resource Room schedule
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from recitation.
 
-| Solutions                              |  Average |  Standard deviation |
-| :------------------------------------: | :------: | :-----------------: |
-| [Quiz 1](quizzes/MA261_Quiz_1_Sol.pdf) |     15.6 |                 5.3 |
-| [Quiz 2](quizzes/MA261_Quiz_2_Sol.pdf) |     17.6 |                 4.6 |
-| [Quiz 3](quizzes/MA261_Quiz_3_Sol.pdf) |     18.3 |                 2.7 |
-| [Quiz 4](quizzes/MA261_Quiz_4_Sol.pdf) |     14.8 |                 4.0 |
-| [Quiz 5](quizzes/MA261_Quiz_5_Sol.pdf) |       20 |                   0 |
-| [Quiz 6](quizzes/MA261_Quiz_6_Sol.pdf) |       16 |                 3.1 |
-| [Quiz 7](quizzes/MA261_Quiz_7_Sol.pdf) |          |                     |
-|                                        |          |                     |
+| Blank                              | Solutions                              |  Average |  Standard deviation |
+| :--------------------------------: | :------------------------------------: | :------: | :-----------------: |
+| [Quiz 1](quizzes/MA261_Quiz_1.pdf) | [Quiz 1](quizzes/MA261_Quiz_1_Sol.pdf) |     15.6 |                 5.3 |
+| [Quiz 2](quizzes/MA261_Quiz_2.pdf) | [Quiz 2](quizzes/MA261_Quiz_2_Sol.pdf) |     17.6 |                 4.6 |
+| [Quiz 3](quizzes/MA261_Quiz_3.pdf) | [Quiz 3](quizzes/MA261_Quiz_3_Sol.pdf) |     18.3 |                 2.7 |
+| [Quiz 4](quizzes/MA261_Quiz_4.pdf) | [Quiz 4](quizzes/MA261_Quiz_4_Sol.pdf) |     14.8 |                 4.0 |
+| [Quiz 5](quizzes/MA261_Quiz_5.pdf) | [Quiz 5](quizzes/MA261_Quiz_5_Sol.pdf) |       20 |                   0 |
+| [Quiz 6](quizzes/MA261_Quiz_6.pdf) | [Quiz 6](quizzes/MA261_Quiz_6_Sol.pdf) |       16 |                 3.1 |
+| [Quiz 7](quizzes/MA261_Quiz_7.pdf) | [Quiz 7](quizzes/MA261_Quiz_7_Sol.pdf) |          |                     |
+|                                    |                                        |          |                     |
 
 Back to [Teaching](../#-teaching).
