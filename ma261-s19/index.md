@@ -39,6 +39,7 @@ Here are the solutions to the quiz problems from recitation.
 | [Quiz 4](quizzes/MA261_Quiz_4_Sol.pdf) |     14.8 |                 4.0 |
 | [Quiz 5](quizzes/MA261_Quiz_5_Sol.pdf) |       20 |                   0 |
 | [Quiz 6](quizzes/MA261_Quiz_6_Sol.pdf) |       16 |                 3.1 |
+| [Quiz 7](quizzes/MA261_Quiz_7_Sol.pdf) |          |                     |
 |                                        |          |                     |
 
 Back to [Teaching](../#-teaching).
