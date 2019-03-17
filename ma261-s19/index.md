@@ -33,13 +33,13 @@ Here are the solutions to the quiz problems from recitation.
 
 | Blank                          | Solutions                          |  Average |  St. dev. |
 | :----------------------------: | :--------------------------------: | :------: | :-------: |
-| [1](quizzes/MA261_Quiz_1.pdf)  | [1](quizzes/MA261_Quiz_1_Sol.pdf)  |     15.6 |       5.3 |
-| [2](quizzes/MA261_Quiz_2.pdf)  | [2](quizzes/MA261_Quiz_2_Sol.pdf)  |     17.6 |       4.6 |
-| [3](quizzes/MA261_Quiz_3.pdf)  | [3](quizzes/MA261_Quiz_3_Sol.pdf)  |     18.3 |       2.7 |
-| [4](quizzes/MA261_Quiz_4.pdf)  | [4](quizzes/MA261_Quiz_4_Sol.pdf)  |     14.8 |       4.0 |
-| [5](quizzes/MA261_Quiz_5.pdf)  | [5](quizzes/MA261_Quiz_5_Sol.pdf)  |       20 |         0 |
-| [6](quizzes/MA261_Quiz_6.pdf)  | [6](quizzes/MA261_Quiz_6_Sol.pdf)  |       16 |       3.1 |
-| [7](quizzes/MA261_Quiz_7.pdf)  | [7](quizzes/MA261_Quiz_7_Sol.pdf)  |     16.1 |       4.6 |
+| [1](quizzes/MA261_Quiz_1.pdf)  | [1](quizzes/MA261_Quiz_1_Sols.pdf) |     15.6 |       5.3 |
+| [2](quizzes/MA261_Quiz_2.pdf)  | [2](quizzes/MA261_Quiz_2_Sols.pdf) |     17.6 |       4.6 |
+| [3](quizzes/MA261_Quiz_3.pdf)  | [3](quizzes/MA261_Quiz_3_Sols.pdf) |     18.3 |       2.7 |
+| [4](quizzes/MA261_Quiz_4.pdf)  | [4](quizzes/MA261_Quiz_4_Sols.pdf) |     14.8 |       4.0 |
+| [5](quizzes/MA261_Quiz_5.pdf)  | [5](quizzes/MA261_Quiz_5_Sols.pdf) |       20 |         0 |
+| [6](quizzes/MA261_Quiz_6.pdf)  | [6](quizzes/MA261_Quiz_6_Sols.pdf) |       16 |       3.1 |
+| [7](quizzes/MA261_Quiz_7.pdf)  | [7](quizzes/MA261_Quiz_7_Sols.pdf) |     16.1 |       4.6 |
 |                                |                                    |          |           |
 
 Back to [Teaching](../#-teaching).
