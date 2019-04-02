@@ -21,7 +21,7 @@ official schedule Math Resource Room schedule
 [here](https://www.math.purdue.edu/academic/officehours).
 
 ### [](#announce) Announcements
->Exam 1 grades have been posted on WebAssign. My sections' combined average was **74.2** with a standard deviation of **16**. I will be returning Exam 1 booklets on Tuesday, March 4.
+>Exam 2 grades have been uploaded to WebAssign. The total average was **70.1** with a standard deviation of **21.9**.
 
 ### [](#links) Links and notes
 * [Paul's Online Notes for Calc III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
