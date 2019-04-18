@@ -31,18 +31,19 @@ official schedule Math Resource Room schedule
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from recitation.
 
-| Blank                          | Solutions                          |  Average |  St. dev. |
-| :----------------------------: | :--------------------------------: | :------: | :-------: |
-| [1](quizzes/MA261_Quiz_1.pdf)  | [1](quizzes/MA261_Quiz_1_Sols.pdf) |     15.6 |       5.3 |
-| [2](quizzes/MA261_Quiz_2.pdf)  | [2](quizzes/MA261_Quiz_2_Sols.pdf) |     17.6 |       4.6 |
-| [3](quizzes/MA261_Quiz_3.pdf)  | [3](quizzes/MA261_Quiz_3_Sols.pdf) |     18.3 |       2.7 |
-| [4](quizzes/MA261_Quiz_4.pdf)  | [4](quizzes/MA261_Quiz_4_Sols.pdf) |     14.8 |       4.0 |
-| [5](quizzes/MA261_Quiz_5.pdf)  | [5](quizzes/MA261_Quiz_5_Sols.pdf) |       20 |         0 |
-| [6](quizzes/MA261_Quiz_6.pdf)  | [6](quizzes/MA261_Quiz_6_Sols.pdf) |       16 |       3.1 |
-| [7](quizzes/MA261_Quiz_7.pdf)  | [7](quizzes/MA261_Quiz_7_Sols.pdf) |     16.1 |       4.6 |
-| [8](quizzes/MA261_Quiz_8.pdf)  | [8](quizzes/MA261_Quiz_8_Sols.pdf) |     17.5 |      3.36 |
-| [9](quizzes/MA261_Quiz_9.pdf)  | [9](quizzes/MA261_Quiz_9_Sols.pdf) |          |           |
-| dropped                        | dropped                            |      N/A |       N/A |
-|                                |                                    |          |           |
+| Blank                           | Solutions                            |  Average |  St. dev. |
+| :----------------------------:  | :--------------------------------:   | :------: | :-------: |
+| [1](quizzes/MA261_Quiz_1.pdf)   | [1](quizzes/MA261_Quiz_1_Sols.pdf)   |     15.6 |       5.3 |
+| [2](quizzes/MA261_Quiz_2.pdf)   | [2](quizzes/MA261_Quiz_2_Sols.pdf)   |     17.6 |       4.6 |
+| [3](quizzes/MA261_Quiz_3.pdf)   | [3](quizzes/MA261_Quiz_3_Sols.pdf)   |     18.3 |       2.7 |
+| [4](quizzes/MA261_Quiz_4.pdf)   | [4](quizzes/MA261_Quiz_4_Sols.pdf)   |     14.8 |       4.0 |
+| [5](quizzes/MA261_Quiz_5.pdf)   | [5](quizzes/MA261_Quiz_5_Sols.pdf)   |       20 |         0 |
+| [6](quizzes/MA261_Quiz_6.pdf)   | [6](quizzes/MA261_Quiz_6_Sols.pdf)   |       16 |       3.1 |
+| [7](quizzes/MA261_Quiz_7.pdf)   | [7](quizzes/MA261_Quiz_7_Sols.pdf)   |     16.1 |       4.6 |
+| [8](quizzes/MA261_Quiz_8.pdf)   | [8](quizzes/MA261_Quiz_8_Sols.pdf)   |     17.5 |      3.36 |
+| [9](quizzes/MA261_Quiz_9.pdf)   | [9](quizzes/MA261_Quiz_9_Sols.pdf)   |     15.6 |       3.4 |
+| canceled                        | canceled                             |      N/A |       N/A |
+| [11](quizzes/MA261_Quiz_11.pdf) | [11](quizzes/MA261_Quiz_11_Sols.pdf) |     16.9 |       2.7 |
+| [12](quizzes/MA261_Quiz_12.pdf) |                                      |          |           |
 
 Back to [Teaching](../#-teaching).
