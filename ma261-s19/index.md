@@ -44,6 +44,10 @@ Here are the solutions to the quiz problems from recitation.
 | [9](quizzes/MA261_Quiz_9.pdf)   | [9](quizzes/MA261_Quiz_9_Sols.pdf)   |     15.6 |       3.4 |
 | canceled                        | canceled                             |      N/A |       N/A |
 | [11](quizzes/MA261_Quiz_11.pdf) | [11](quizzes/MA261_Quiz_11_Sols.pdf) |     16.9 |       2.7 |
+<<<<<<< HEAD
 | [12](quizzes/MA261_Quiz_12.pdf) | [12](quizze/MA261_Quiz_12_Sols.pdf)  |     14.6 | 3.6       |
+=======
+| [12](quizzes/MA261_Quiz_12.pdf) | [12](quizzes/MA261_Quiz_12_Sols.pdf) |          |           |
+>>>>>>> 3a4e01a4dee7497bebc96b838e4fea4cee55b825
 
 Back to [Teaching](../#-teaching).
