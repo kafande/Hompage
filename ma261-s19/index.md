@@ -3,22 +3,13 @@ layout: default
 ---
 
 ## [](#course) MA 261 Spring 2019 — sections 656, 664, and 672
-This is the website for sections 656 (9:30 AM), 664 (8:30 AM), and 672 (7:30 AM)
-for [Dominic Naughton](http://www.math.purdue.edu/people/bio/naughton)'s MA 261
-lecture. For the course website [click here](https://www.math.purdue.edu/MA261).
-Here is a link to the [course
-calendar](https://www.math.purdue.edu/academic/files/courses/2019spring/MA26100/MA261-S19-calendar.html),
-in it you will find important dates regarding the course. My office hours are
+This is the website for sections 656 (9:30 AM), 664 (8:30 AM), and 672 (7:30 AM) for [Dominic Naughton](http://www.math.purdue.edu/people/bio/naughton)'s MA 261 lecture. For the course website [click here](https://www.math.purdue.edu/MA261). Here is a link to the [course calendar](https://www.math.purdue.edu/academic/files/courses/2019spring/MA26100/MA261-S19-calendar.html), in it you will find important dates regarding the course. My office hours are 
 
 | Day       | Time           |
 | :-------: | :------------: |
 | Tuesday   | 2:30—5:20 PM   |
 
-[Quiz 1](quizzes/MA261_Quiz_1.pdf)in the [Math Resource
-Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office
-MATH 717 by appointment. You can find also consult other Math 261 TAs; see the
-official schedule Math Resource Room schedule
-[here](https://www.math.purdue.edu/academic/officehours).
+in the [Math Resource Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office MATH 717 by appointment. You can also consult other Math 261 TAs; see the official schedule Math Resource Room schedule [here](https://www.math.purdue.edu/academic/officehours).
 
 ### [](#announce) Announcements
 >We will be having a review session for the final. The review session will be held in REC 123 on Saturday, April 27, from 12 PM to 3 PM.
@@ -45,6 +36,6 @@ Here are the solutions to the quiz problems from recitation.
 | [9](quizzes/MA261_Quiz_9.pdf)   | [9](quizzes/MA261_Quiz_9_Sols.pdf)   |     15.6 |       3.4 |
 | canceled                        | canceled                             |      N/A |       N/A |
 | [11](quizzes/MA261_Quiz_11.pdf) | [11](quizzes/MA261_Quiz_11_Sols.pdf) |     16.9 |       2.7 |
-| [12](quizzes/MA261_Quiz_12.pdf) | [12](quizze/MA261_Quiz_12_Sols.pdf)  |     14.6 | 3.6       |
+| [12](quizzes/MA261_Quiz_12.pdf) | [12](quizzes/MA261_Quiz_12_Sols.pdf) |     14.6 | 3.6       |
 
 Back to [Teaching](../#-teaching).
