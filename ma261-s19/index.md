@@ -12,7 +12,7 @@ This is the website for sections 656 (9:30 AM), 664 (8:30 AM), and 672 (7:30 AM)
 in the [Math Resource Room](https://www.math.purdue.edu/academic/courses/helproom) or in my office MATH 717 by appointment. You can also consult other Math 261 TAs; see the official schedule Math Resource Room schedule [here](https://www.math.purdue.edu/academic/officehours).
 
 ### [](#announce) Announcements
->We will be having a review session for the final. The review session will be held in REC 123 on Saturday, April 27, from 12 PM to 3 PM.
+>The final exam will take place on Wednesday, May 1 from 3 PM to 5 PM in Elliott Hall [click here](https://www.math.purdue.edu/academic/files/courses/2019spring/MA26100/MA26100FINALSPR19COMBINEDLAYOUT.pdf) to view the seating arrangement. I will be available to answer questions pertaining to previous final problems on Wednesday, May 1, from 12 PM to 2 PM in my office MATH 717.
 
 ### [](#links) Links and notes
 * [Paul's Online Notes for Calc III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
