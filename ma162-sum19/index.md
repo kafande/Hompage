@@ -25,3 +25,34 @@ Here are the solutions to the quiz problems from recitation.
 |         |           |          |           |
 
 Back to [Teaching](../#-teaching).
+
+www.facebook.com
+facebook.com
+static.ak.fbcdn.net
+www.static.ak.fbcdn.net
+login.facebook.com
+www.login.facebook.com
+fbcdn.net
+www.fbcdn.net
+fbcdn.com
+www.fbcdn.com
+static.ak.connect.facebook.com
+www.static.ak.connect.facebook.com
+www.4chan.org
+boards.4chan.org
+4chan.org
+www.8ch.net
+8ch.net
+www.8chan.co
+8chan.co
+www.9gag.com
+9gag.com
+www.reddit.com
+reddit.com
+m.reddit.com
+www.fazed.net
+fazed.net
+youtube.com
+m.youtube.com
+www.youtube.com
+news.ycombinator.com
