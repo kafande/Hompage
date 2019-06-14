@@ -24,7 +24,7 @@ Here are the solutions to the quiz problems from Tuesday/Thursday lectures.
 
 | Blank                         | Solutions | Average  | St. dev.  |
 | :-----:                       | :-------: | :------: | :-------: |
-| [1](quizzev/MA162_Quiz_1.pdf) | D, A, B   |          |           |
+| [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |          |           |
 |                               |           |          |           |
 
 Back to [Teaching](../#-teaching).
