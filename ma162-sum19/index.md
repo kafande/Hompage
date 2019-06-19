@@ -15,7 +15,7 @@ and they will be held in my office, MATH 717. You can also consult other MA 162 
 >
 
 ### [](#links) Links and notes
-* [Formula sheet](notes/MA162-Formulas.pdf)
+* [Past MA162 Exams](https://www.math.purdue.edu/academic/courses/oldexams.php?course=MA16200)
 * [Paul's Online Notes for Calc II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
 * [Course calendar](https://www.math.purdue.edu/academic/files/courses/2019summer/MA16200/162calendarSu18-1.pdf)
 
@@ -25,6 +25,7 @@ Here are the solutions to the quiz problems from Tuesday/Thursday lectures.
 | Blank                         | Solutions | Average  | St. dev.  |
 | :-----:                       | :-------: | :------: | :-------: |
 | [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |          |           |
+| [2](quizzes/MA162_Quiz_2.pdf) | D, C, B   |          |           |
 |                               |           |          |           |
 
 Back to [Teaching](../#-teaching).
