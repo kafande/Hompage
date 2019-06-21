@@ -26,6 +26,6 @@ Here are the solutions to the quiz problems from Tuesday/Thursday lectures.
 | :-----:                       | :-------: | :------: | :-------: |
 | [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |          |           |
 | [2](quizzes/MA162_Quiz_2.pdf) | D, C, B   |          |           |
-|                               |           |          |           |
+| [3](quizzes/MA162_Quiz_3.pdf) | D, C, D   |          |           |
 
 Back to [Teaching](../#-teaching).
