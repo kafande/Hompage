@@ -12,12 +12,16 @@ This is the website for section 777 of MA 162. Class is held in REC 317 on Tuesd
 and they will be held in my office, MATH 717. You can also consult other MA 162 instructors; [click here](https://www.math.purdue.edu/academic/files/courses/2019summer/MA16200/16200OH.pdf) to see their office hours.
 
 ### [](#announce) Announcements
->
+> Exam 1 will take place on June 25th, during the second half of class.
+
+### [](#lectures) Lectures
+* [Lecture 4](notes/MA162_Notes_4.pdf)
+* [Lecture 5](notes/MA162_Notes_5.pdf)
 
 ### [](#links) Links and notes
-* [Past MA162 Exams](https://www.math.purdue.edu/academic/courses/oldexams.php?course=MA16200)
+* [Past Exam Archive](https://www.math.purdue.edu/academic/courses/oldexams.php?course=MA16200)
 * [Paul's Online Notes for Calc II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
-* [Course calendar](https://www.math.purdue.edu/academic/files/courses/2019summer/MA16200/162calendarSu18-1.pdf)
+* [Course Calendar](https://www.math.purdue.edu/academic/files/courses/2019summer/MA16200/162calendarSu18-1.pdf)
 
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from Tuesday/Thursday lectures.
