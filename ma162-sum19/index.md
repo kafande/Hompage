@@ -17,6 +17,7 @@ and they will be held in my office, MATH 717. You can also consult other MA 162 
 ### [](#lectures) Lectures
 * [Lecture 4](notes/MA162_Notes_4.pdf)
 * [Lecture 5](notes/MA162_Notes_5.pdf)
+* [Lecture 7](notes/MA162_Notes_7.pdf)
 
 ### [](#links) Links and notes
 * [Past Exam Archive](https://www.math.purdue.edu/academic/courses/oldexams.php?course=MA16200)
@@ -26,10 +27,12 @@ and they will be held in my office, MATH 717. You can also consult other MA 162 
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from Tuesday/Thursday lectures.
 
-| Blank                         | Solutions | Average  | St. dev.  |
-| :-----:                       | :-------: | :------: | :-------: |
+| Quiz no.                      | Solutions | Average  | St. dev.  |
+| :---------------------------: | :-------: | :------: | :-------: |
 | [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |          |           |
 | [2](quizzes/MA162_Quiz_2.pdf) | D, C, B   |          |           |
 | [3](quizzes/MA162_Quiz_3.pdf) | D, C, D   |          |           |
+| [4](quizzes/MA162_Quiz_4.pdf) | C, C, A   |          |           |
+|                               |           |          |           |
 
 Back to [Teaching](../#-teaching).
