@@ -26,12 +26,11 @@ and they will be held in my office, MATH 717. You can also consult other MA 162 
 
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from Tuesday/Thursday lectures.
-
-| Quiz no.                      | Solutions | Average  | St. dev.  |
-| :---------------------------: | :-------: | :------: | :-------: |
-| [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |          |           |
-| [2](quizzes/MA162_Quiz_2.pdf) | D, C, B   |          |           |
-| [3](quizzes/MA162_Quiz_3.pdf) | D, C, D   |          |           |
+| Quiz no.                 | Solutions |  Average |  St. dev. |
+| :-----:                       | :-------: | :------: | :-------: |
+| [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |     18.8 |       2.1 |
+| [2](quizzes/MA162_Quiz_2.pdf) | D, C, B   |     16.1 |       3.4 |
+| [3](quizzes/MA162_Quiz_3.pdf) | D, C, D   |     13.9 |       4.0 |
 | [4](quizzes/MA162_Quiz_4.pdf) | C, C, A   |          |           |
 |                               |           |          |           |
 
