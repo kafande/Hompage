@@ -31,11 +31,10 @@ Tuesday/Thursday lecture notes are here.
 Here are the solutions to the quiz problems from Tuesday/Thursday lectures. Click on the blue link to open the a link to the pdf which contains the detailed solutions.
 
 | Quiz no.                      | Solutions |  Average |  St. dev. |
-| :-----:                       | :-------: | :------: | :-------: |
+| :---------------------------: | :-------: | :------: | :-------: |
 | [1](quizzes/MA162_Quiz_1.pdf) | B, A, B   |     18.8 |       2.1 |
 | [2](quizzes/MA162_Quiz_2.pdf) | D, C, B   |     16.1 |       3.4 |
 | [3](quizzes/MA162_Quiz_3.pdf) | D, C, D   |     13.9 |       4.0 |
-| [4](quizzes/MA162_Quiz_4.pdf) | C, C, A   |          |           |
-|                               |           |          |           |
+| [4](quizzes/MA162_Quiz_4.pdf) | C, C, A   |     15.6 |       4.0 |
 
 Back to [Teaching](../#-teaching).
