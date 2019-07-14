@@ -21,6 +21,7 @@ Tuesday/Thursday lecture notes are here.
 * [Lecture 5](notes/MA162_Notes_5.pdf)
 * [Lecture 7](notes/MA162_Notes_7.pdf)
 * [Lecture 8](notes/MA162_Notes_8.pdf)
+* [Lecture 9](notes/MA162_Notes_9.pdf)
 
 ### [](#links) Links and notes
 * [Past Exam Archive](https://www.math.purdue.edu/academic/courses/oldexams.php?course=MA16200)
@@ -38,5 +39,6 @@ Here are the solutions to the quiz problems from Tuesday/Thursday lectures. Clic
 | [3](quizzes/MA162_Quiz_3.pdf) | D, C, D   |     13.9 |       4.0 |
 | [4](quizzes/MA162_Quiz_4.pdf) | C, C, A   |     15.6 |       4.0 |
 | [5](quizzes/MA162_Quiz_5.pdf) | A, A, C   |     17.3 |       2.7 |
+| [6](quizzes/MA162_Quiz_6.pdf) | B, C, C   |     17.3 |       3.1 |
 
 Back to [Teaching](../#-teaching).
