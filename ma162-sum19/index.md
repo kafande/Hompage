@@ -12,7 +12,7 @@ This is the website for section 777 of MA 162. Class is held in REC 317 on Tuesd
 and they will be held in my office, MATH 717. You can also consult other MA 162 instructors; [click here](https://www.math.purdue.edu/academic/files/courses/2019summer/MA16200/16200OH.pdf) to see their office hours.
 
 ### [](#announce) Announcements
-> The average for Exam 1 was 72.5 with a standard deviation of 16.0. Please consult Dave for letter grade cutoffs.
+> The average for Exam 2 was 54.3 with a standard deviation of 22.6. Please consult Dave for letter grade cutoffs.
 
 ### [](#lectures) Lectures
 Tuesday/Thursday lecture notes are here.
