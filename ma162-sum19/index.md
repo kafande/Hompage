@@ -41,6 +41,7 @@ Here are the solutions to the quiz problems from Tuesday/Thursday lectures. Clic
 | [4](quizzes/MA162_Quiz_4.pdf) | C, C, A   |     15.6 |       4.0 |
 | [5](quizzes/MA162_Quiz_5.pdf) | A, A, C   |     17.3 |       2.7 |
 | [6](quizzes/MA162_Quiz_6.pdf) | B, C, C   |     17.3 |       3.1 |
-| [7](quizzes/MA162_Quiz_7.pdf) | B, A, E   |          |           |
+| [7](quizzes/MA162_Quiz_7.pdf) | B, A, E   |     14.8 |       4.4 |
+| [8](quizzes/MA162_Quiz_8.pdf) | A, A, E   |     16.1 |       3.6 |
 
 Back to [Teaching](../#-teaching).
