@@ -29,6 +29,7 @@ Tuesday/Thursday lecture notes are here.
 * [Paul's Online Notes for Calc II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
 * [Course Calendar](https://www.math.purdue.edu/academic/files/courses/2019summer/MA16200/162calendarSu18-1.pdf)
 * [Exam 1 Solutions](notes/MA162_Exam_1.pdf)
+* [Exam 2 Solutions](notes/MA162_Exam_2.pdf)
 
 ### [](#sols) Quiz solutions
 Here are the solutions to the quiz problems from Tuesday/Thursday lectures. Click on the blue link to open the a link to the pdf which contains the detailed solutions.
