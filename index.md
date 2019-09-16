@@ -21,6 +21,7 @@ This heading will contain courses that I have taught or TA'd at Purdue Universit
 * [MA 261 Fall 2018](ma261-f18)
 * [MA 261 Spring 2019](ma261-s19)
 * [MA 162 Summer 2019](ma162-sum19)
+* [MA 527 Fall 2019](ma527-f19)
 
 ## [](#papers) Notes
 <!-- * [Bott Periodicity for the unitary group](docs/Bott_Periodicity.pdf) (incomplete) -->
