@@ -7,8 +7,8 @@ You may find solutions to graded problems from Victor Lie's MA 527 section 1 cou
 
 ### [](#sols) Homework Solutions
 
-| PSet no.                      | Average  | St. dev.  |
-| :---------------------------: | :------: | :-------: |
+| PSet no.                         | Average  | St. dev.  |
+| :---------------------------:    | :------: | :-------: |
 | [1](sols/MA-527-PSet-Sols-1.pdf) |          |           |
 | [2](sols/MA-527-PSet-Sols-2.pdf) |          |           |
 | [3](sols/MA-527-PSet-Sols-3.pdf) |          |           |
