@@ -9,8 +9,8 @@ You may find solutions to graded problems from Victor Lie's MA 527 section 1 cou
 
 | PSet no.                      | Average  | St. dev.  |
 | :---------------------------: | :------: | :-------: |
-| [1](sols/MA527_PSet_1.pdf)    |          |           |
-| [2](sols/MA527_PSet_2.pdf)    |          |           |
-| [3](sols/MA527_PSet_3.pdf)    |          |           |
+| [1](sols/MA-527-PSet-Sols-1.pdf) |          |           |
+| [2](sols/MA-527-PSet-Sols-2.pdf) |          |           |
+| [3](sols/MA-527-PSet-Sols-3.pdf) |          |           |
 
 Back to [Teaching](../#-teaching).
