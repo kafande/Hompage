@@ -10,25 +10,13 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-katex
 
-markdown: kramdown
-
 katex:
   js_path: "assets/javascript"
   rendering_options:
     throw_error: true
     error_color: "#cc0000"
 
-github:
-  private: true
-  license:
-    name: MIT
-  source:
-    branch: "master"
-    path: "/"
-  repository_url: "https://github.com/kafande/PU-Homepage"
-  
-encoding: utf-8
-title: Carlos' Homepage 
+title: C E Salinas
 description: Carlos Salinas' Homepage at Purdue University
 url:  https://www.math.purdue.edu
 baseurl: /~salinac
