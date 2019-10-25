@@ -3,7 +3,7 @@ layout: default
 ---
 ![](img/TurkeyRun.jpg){:width="50%"}
 
-*Me on the left with [Kuang-Ru Wu](https://math.purdue.edu/~wu739) and Warren Katz at [Turkey Run](https://en.wikipedia.org/wiki/Turkey_Run_State_Park).*
+*Me on the right with [Kuang-Ru Wu](https://math.purdue.edu/~wu739) and Warren Katz at [Turkey Run](https://en.wikipedia.org/wiki/Turkey_Run_State_Park).*
 
 ## [](#info) Information
 
